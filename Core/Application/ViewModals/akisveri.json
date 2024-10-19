@@ -1,0 +1,46 @@
+[
+    {
+      "kurum_id":20,
+      "nokta_kodu": "D3581D143B0B4CA0E0536A58C0E74D",
+      "kurumadi": "SHELL",
+      "noktaadi": "SHELL KIYIKÖY SPOT GİRİŞ NOKTASI",
+      "enerji":852789,
+      "basinc":8,
+      "sıcaklik" : 20,
+      "olcumzamani" : "10/8/2024"
+     
+    },
+    {
+        "kurum_id":22,
+        "nokta_kodu": "D3581D143B0BAC40E0536E01A8C0E74D",
+        "kurumadi": "ENERJİSA",
+        "noktaadi": "ENERJİA SPOT GİRİŞ NOKTASI",
+        "enerji":589634,
+        "basinc":8,
+        "sıcaklik" : 20,
+        "olcumzamani" : "10/8/2024"
+        
+      },
+      {
+        "kurum_id":24,
+        "nokta_kodu": "D3581D143B0BAC40E0536E01A8C0E74D",
+        "kurumadi": "AKSA",
+        "noktaadi": "AKSA SPOT GİRİŞ NOKTASI",
+        "enerji":875658,
+        "basinc":8,
+        "sıcaklik" : 20,
+        "olcumzamani" : "10/8/2024"
+       
+      },
+      {
+        "kurum_id":26,
+        "nokta_kodu": "D358143D1B0B4CA0E0536E01A8C0E74D",
+        "kurumadi": "SOCAR TURKEY",
+        "noktaadi": "SOCAR KIYIKÖY SPOT GİRİŞ NOKTASI",
+        "enerji":452897,
+        "basinc":7,
+        "sıcaklik" : 18,
+        "olcumzamani" : "10/8/2024"
+       
+      }
+  ]

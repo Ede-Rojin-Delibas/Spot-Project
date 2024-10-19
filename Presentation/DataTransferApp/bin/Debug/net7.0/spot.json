@@ -1,0 +1,56 @@
+[
+    {
+      "kapasite_adi": "YILLIK KAPASİTE",
+      "lisans_no": "DİT/78624-2/435",
+      "nokta_kodu": "D3581D143B0B4CA0E0536A58C0E74D",
+      "kurumadi": "SHELL",
+      "noktaadi": "SHELL KIYIKÖY SPOT GİRİŞ NOKTASI",
+      "kapasite": 7839000,
+      "fiyat": 20,
+      "donem_tur": "YILLIK",
+      "ay": 0,
+      "yil": 2024,
+      "kurum_id": 20
+
+    },
+  {
+    "kapasite_adi": "AYLIK KAPASİTE",
+    "lisans_no": "DİT/97624-2/423",
+    "nokta_kodu": "D3581D143B0BAC40E0536E01A8C0E74D",
+    "kurumadi": "ENERJİSA",
+    "noktaadi": "ENERJİA SPOT GİRİŞ NOKTASI",
+    "kapasite": 5852354,
+    "fiyat": 180,
+    "donem_tur": "AYLIK",
+    "ay": 8,
+    "yil": 2024,
+    "kurum_id": 22
+
+  },
+  {
+    "kapasite_adi": "AYLIK KAPASİTE",
+    "lisans_no": "DİT/7624-2/432",
+    "nokta_kodu": "D3581D143B0BAC40E0536E01A8C0E74D",
+    "kurumadi": "AKSA",
+    "noktaadi": "AKSA SPOT GİRİŞ NOKTASI",
+    "kapasite": 8535656,
+    "fiyat": 150,
+    "donem_tur": "AYLIK",
+    "ay": 8,
+    "yil": 2024,
+    "kurum_id": 24
+  },
+  {
+    "kapasite_adi": "AYLIK KAPASİTE",
+    "lisans_no": "DİT/2467-2/233",
+    "nokta_kodu": "D358143D1B0B4CA0E0536E01A8C0E74D",
+    "kurumadi": "SOCAR TURKEY",
+    "noktaadi": "SOCAR KIYIKÖY SPOT GİRİŞ NOKTASI",
+    "kapasite": 9500255,
+    "fiyat": 260,
+    "donem_tur": "AYLIK",
+    "ay": 7,
+    "yil": 2024,
+    "kurum_id": 26
+  }
+  ]
